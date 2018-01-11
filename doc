@@ -1,0 +1,8 @@
+ Abstract : Tic Tac Toe is one of the simple game, which is also called as noughts and crosses but in our local terms we called it as cross-zero game. Other may say differently this game but things are same. It is a pencil-and-paper game for two players, where player select X and O, as their playing item. It is played on the grid of 3×3. The player who succeeds in placing three respective marks in a horizontal, vertical, or diagonal row wins the game.
+
+Description : The grid is structured mapping the objects in the array while each have some value to them. Next is the X and O which are simply made by using cylinders and tours. Then mouse variables, Win = windows size, mouse = mouse position  are defined to keep record of click on the grid. Now time is to declare the players to keep track them, player and com is given a value which determine them. The win and start game is given a value so to keep who wins the game and where to start from with considering tie as another option. 
+Logic was made as Computer seek the spaces and determine where to keep the next move. Computer move is what made the logic how it play the move on the board by check at the corner and in the middle space.
+
+User interactions :
+ First time Computer is given a move show use can either follow it or right click to choose whether to play as X or with O.
+Press V to toggle between the ortho to perspective views.
